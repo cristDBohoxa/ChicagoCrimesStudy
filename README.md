@@ -1,4 +1,4 @@
-# ChicagoCrimesStudy
+# Chicago Crimes Study
 Description of criminal behavior in the city of Chicago
 
 Hi EveryBody!!
