@@ -1,6 +1,10 @@
 # ChicagoCrimesStudy
 Description of criminal behavior in the city of Chicago
 
+Hi EveryBody!!
+
+This project is an exercise in data cleaning, depuration and selection, for later analysis.
+
 The idea with this proyect is compile various techniques for do Exploratory Data Analisys (Eda), 
 the proyect will works better, when you load a one more biggets Data Set, a one options is:
 
